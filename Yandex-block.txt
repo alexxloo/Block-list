@@ -1,0 +1,13 @@
+mail.yandex.ru##.mail-TypefilterTabs-Item
+mail.yandex.ru##.ns-view-typefilter-tabs
+mail.yandex.ru##.mail-Logo-Pancakes.js-logo-dropdown-toggler.nb
+disk.yandex.ru##.nb-icon-resource__image.nb-icon-resource__image_icon.file-icon.file-icon_size_s.file-icon_dir
+disk.yandex.ru##.nb-icon-resource__image.nb-icon-resource__image_icon.file-icon.file-icon_size_s.file-icon_dir_screenshots
+disk.yandex.ru##.nb-icon-resource__image.nb-icon-resource__image_icon.file-icon.file-icon_size_s.file-icon_dir_social
+disk.yandex.ru##.nb-icon-resource__image.nb-icon-resource__image_icon.file-icon.file-icon_size_m.file-icon_dir
+disk.yandex.ru##.nb-icon-resource__image.nb-icon-resource__image_icon.file-icon.file-icon_size_m.file-icon_dir_screenshots
+disk.yandex.ru##.nb-icon-resource__image.nb-icon-resource__image_icon.file-icon.file-icon_size_m.file-icon_dir_social
+disk.yandex.ru##.nb-icon-resource__image.nb-icon-resource__image_icon.file-icon.file-icon_size_l.file-icon_dir
+disk.yandex.ru##.nb-icon-resource__image.nb-icon-resource__image_icon.file-icon.file-icon_size_l.file-icon_dir_screenshots
+disk.yandex.ru##.nb-icon-resource__image.nb-icon-resource__image_icon.file-icon.file-icon_size_l.file-icon_dir_social
+disk.yandex.ru##.nb-icon-resource__image.nb-icon-resource__image_icon.file-icon.file-icon_size_l.file-icon_dir_shared
