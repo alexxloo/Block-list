@@ -1,9 +1,11 @@
 [Adblock Plus 2.0]
-! Version: 201801070152
+! Checksum: N7hAfqacHlXlRM27HZzndQ
+! Version: 201801070200
 ! Title: Yandex-block
 ! Last modified: 07 Jan 2018 11:48 UTC
 ! Expires: 14 days (update frequency)
-
+!-----------------------General advert blocking filters-----------------------!
+! *** Yandex-block:Yandex-block/Yandex-block_general_block.txt ***
 mail.yandex.ru##.mail-TypefilterTabs-Item
 mail.yandex.ru##.ns-view-typefilter-tabs
 mail.yandex.ru##.mail-Logo-Pancakes.js-logo-dropdown-toggler.nb
