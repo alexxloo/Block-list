@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 201801070200
 ! Title: Yandex-block
-! Expires: 14 days (update frequency)
+! Expires: 1 days (update frequency)
 !-----------------------General advert blocking filters-----------------------!
 ! *** Yandex-block:Yandex-block/Yandex-block_general_block.txt ***
 ||yastatic.net/daas/stripe.html
@@ -15,6 +15,7 @@ mail.yandex.ru##.ns-view-thread-sidebar-box
 mail.yandex.ru##mail-SkinSaver-Box
 mail.yandex.ru##.mail-Logo-Yandex.js-mail-logo-yandex.with-menu
 mail.yandex.ru##div[style="position: relative; transition: padding 150ms ease-out 0s; padding-top: 36px;"]
+mail.yandex.ru##.ns-view-skin-saver-box
 
 disk.yandex.ru##.nb-icon-resource__image.nb-icon-resource__image_icon.file-icon.file-icon_size_s.file-icon_dir
 disk.yandex.ru##.nb-icon-resource__image.nb-icon-resource__image_icon.file-icon.file-icon_size_s.file-icon_dir_screenshots

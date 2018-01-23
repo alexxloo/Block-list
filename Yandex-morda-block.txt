@@ -1,0 +1,33 @@
+[Adblock Plus 2.0]
+! Version: 201801070200
+! Title: Yandex-block
+! Expires: 1 days (update frequency)
+!-----------------------General advert blocking filters-----------------------!
+! *** Yandex-block:Yandex-block/Yandex-block_general_block.txt ***
+
+yandex.ru##.i-bem.media-vod.stream-control.media-grid__media-vod.media-service.media-service_width_half.media-vod_js_inited.media-vod_visible_yes.media-vod_images-loaded_yes
+yandex.ru##.media-grid__row.media-grid__row_splitted_yes
+yandex.ru##.media-grid__row.media-grid__row_type_infinity-zen
+yandex.ru##.services
+yandex.ru##.tv.stream-control.i-bem
+yandex.ru##.Y_xc
+yandex.ru##.k_je
+yandex.ru##.weather
+yandex.ru##.afisha
+yandex.ru###wd-wrapper-_tv-1
+yandex.ru##.i-bem.widget.widget_yandex_true.widget_name_tv.widgets__item.b-widget-fixed.widget_js_inited
+yandex.ru##.pO.m3_Dk_wF.bb__item.widgets__col.widgets__col_td_5
+yandex.ru##.pO.m3_Dk_wF.bb__item.widgets__col.widgets__col_td_3
+yandex.ru###wd-wrapper-_etrains-1
+yandex.ru##.i-bem.widget.widget_yandex_true.widget_bundled_yes.widget_name_etrains.widgets__item.b-widget-fixed.widget_js_inited
+yandex.ru##.list.list_inline_yes
+yandex.ru##.region__title
+yandex.ru###wd-wrapper-_geo-1
+yandex.ru##.i-bem.widget.widget_yandex_true.widget_name_geo.widgets__item.b-widget-fixed.widget_js_inited
+yandex.ru##.teaser__content
+yandex.ru###wd-wrapper-_teaser-1
+yandex.ru##.i-bem.widget.widget_yandex_true.widget_name_teaser.widgets__item.b-widget-fixed.widget_js_inited
+yandex.ru##.pO.headline__item.headline__leftcorner
+yandex.ru##.li.y3.m3_Dk_wF.vu__li.vu__li_Hy_XE
+yandex.ru##.qV.qV__y3.qV__dC.qV_t6_wF
+yandex.ru##.media-infinity-footer__content.media-infinity-footer__content_visible_yes
