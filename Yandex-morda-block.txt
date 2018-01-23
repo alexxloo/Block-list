@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Version: 201801070200
-! Title: Yandex-block
+! Title: Yandex-morda-block
 ! Expires: 1 days (update frequency)
 !-----------------------General advert blocking filters-----------------------!
 ! *** Yandex-block:Yandex-block/Yandex-block_general_block.txt ***
