@@ -5,4 +5,6 @@
 
 >**Яндекс диск - скрывает все папки, кроме папки с общим доступом**
 
-https://alexxloo.github.io/Yandex-block/
+https://alexxloo.github.io/Yandex-block/Yandex-block.txt
+
+https://alexxloo.github.io/Yandex-block/Yandex-morda-block.txt
